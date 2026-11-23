@@ -1,3 +1,0 @@
-C:/Users/mosam/Documents/Cs2Esp/out/build/x64-Debug/CMakeFiles/cs2esp.dir
-C:/Users/mosam/Documents/Cs2Esp/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/mosam/Documents/Cs2Esp/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

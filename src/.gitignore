@@ -1,8 +1,0 @@
-out/
-.vs/
-build/
-*.obj
-*.exe
-*.pdb
-*.ilk
-*.log
