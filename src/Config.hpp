@@ -43,7 +43,7 @@ namespace wrench {
                     &entityHealth, &entityTeam, &pawnOrigin };
         }
     };
-
+// This is just a test
 inline BuildConfig DefaultConfig_Build20261121() {
     BuildConfig c;
     c.buildLabel = "build 2026-11-21 (cs2-dumper), client.dll TimeDateStamp 0x6aff8722";
@@ -73,9 +73,9 @@ inline BuildConfig DefaultConfig_Build20261121() {
     "build 2026-11-21, client_dll.hpp, C_BasePlayerPawn::m_vOldOrigin (unchanged from build 14199)" };
     c.viewMatrix = { "ViewMatrix", ValueKind::Rva, 0x255D3D0,
         "build 2026-11-21, offsets.hpp, client_dll::dwViewMatrix" };
-    // controllerIsLocal stays UNSET for this build on purpose — LocalPlayerPawn comparison covers it.
-    // 
-    
+    // controllerIsLocal stays UNSET for this build on purpose ï¿½ LocalPlayerPawn comparison covers it.
+    //
+
     // (not re-confirmed yet; do not reuse the 14199 values)
     return c;
 }
